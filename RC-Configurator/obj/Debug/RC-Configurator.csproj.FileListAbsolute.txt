@@ -1,0 +1,124 @@
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\bin\Debug\RC-Configurator.exe.config
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\bin\Debug\RC-Configurator.exe
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\bin\Debug\RC-Configurator.pdb
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.csprojResolveAssemblyReference.cache
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.MainWindow.resources
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.Properties.Resources.resources
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.NewComponentWindow.resources
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.csproj.GenerateResource.Cache
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.exe
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.pdb
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentTreeUserControl.resources
+C:\Users\Kriegerfaust\documents\visual studio 2015\Projects\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentInfoUserControl.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\bin\Debug\RC-Configurator.exe.config
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.exe
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.pdb
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\bin\Debug\RC-Configurator.exe
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\bin\Debug\RC-Configurator.pdb
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\bin\Debug\System.Data.SQLite.dll
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\bin\Debug\System.Data.SQLite.xml
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.csprojResolveAssemblyReference.cache
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.MainWindow.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.Properties.Resources.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.NewComponentWindow.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentTreeUserControl.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentInfoUserControl.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddMotorPanel.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddBatteryPanel.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator\RC-Configurator\obj\Debug\RC-Configurator.csproj.GenerateResource.Cache
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.exe.config
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.exe
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.pdb
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Aircraft_Layout_Controls.Aircraft_Layouts.SinglePropellerLayout.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.AircraftLayoutControl.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Sockets.BatterySocket.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.BatteryInfo.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.InfoPanel.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.MotorInfo.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.MainWindow.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.Properties.Resources.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Socket.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.NewComponentWindow.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentTreeUserControl.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentInfoUserControl.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddMotorPanel.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddBatteryPanel.resources
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.csproj.GenerateResource.Cache
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.exe
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.pdb
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.exe.config
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.exe
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.pdb
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.exe
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.pdb
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.csprojResolveAssemblyReference.cache
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Aircraft_Layout_Controls.Aircraft_Layouts.SinglePropellerLayout.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.AircraftLayoutControl.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Sockets.BatterySocket.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.BatteryInfo.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.InfoPanel.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.MotorInfo.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.MainWindow.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.Properties.Resources.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Socket.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.NewComponentWindow.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentTreeUserControl.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentInfoUserControl.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddMotorPanel.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddBatteryPanel.resources
+C:\Users\Kriegerfaust\OneDrive\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.csproj.GenerateResource.Cache
+C:\Users\Kriegerfaust\Documents\Visual Studio 2015\Projects\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.csprojResolveAssemblyReference.cache
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\bin\Debug\RC-Configurator.exe.config
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC-Configurator.exe
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC-Configurator.pdb
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\bin\Debug\RC-Configurator.exe
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\bin\Debug\RC-Configurator.pdb
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\bin\Debug\System.Data.SQLite.dll
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\bin\Debug\System.Data.SQLite.xml
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC-Configurator.csprojResolveAssemblyReference.cache
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Aircraft_Layout_Controls.Aircraft_Layouts.SinglePropellerLayout.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.AircraftLayoutControl.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Sockets.BatterySocket.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.BatteryInfo.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.InfoPanel.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.MotorInfo.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.MainWindow.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.Properties.Resources.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Socket.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.NewComponentWindow.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentTreeUserControl.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentInfoUserControl.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddMotorPanel.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddBatteryPanel.resources
+C:\Users\schroeder_d\Desktop\RC\RC-Configurator - SQL Implementation (1)\RC-Configurator\obj\Debug\RC-Configurator.csproj.GenerateResource.Cache
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Aircraft_Layout_Controls.Aircraft_Layouts.SinglePropellerLayout.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.AircraftLayoutControl.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Sockets.BatterySocket.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.BatteryInfo.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.InfoPanel.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.MotorInfo.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.MainWindow.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.Properties.Resources.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Socket.Socket.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window.New_Component_Window_User_Controls.AddPropellerPanel.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.NewComponentWindow.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentTreeUserControl.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.User_Controls.componentInfoUserControl.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddMotorPanel.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.New_Component_Window_User_Controls.AddBatteryPanel.resources
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.csproj.GenerateResource.Cache
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.exe.config
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.exe
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\RC-Configurator.pdb
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\System.Data.SQLite.dll
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\bin\Debug\System.Data.SQLite.xml
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.exe
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.pdb
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC-Configurator.csprojResolveAssemblyReference.cache
+C:\Users\schroeder_d\Desktop\RC-Configurator - SQL Implementation\RC-Configurator\obj\Debug\RC_Configurator.userInterface.Main_Window.Main_Window_User_Controls.Info_Panel.PropellerInfo.resources

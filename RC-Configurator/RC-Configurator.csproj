@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A59C262B-5DC6-4F3A-9FD1-2E785BE0E5C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RC_Configurator</RootNamespace>
+    <AssemblyName>RC-Configurator</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.79.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="domain\Components\Battery.cs" />
+    <Compile Include="domain\Components\Propeller.cs" />
+    <Compile Include="domain\Components\Receiver.cs" />
+    <Compile Include="domain\Components\Servo.cs" />
+    <Compile Include="domain\Components\SpeedController.cs" />
+    <Compile Include="domain\Components\Component.cs" />
+    <Compile Include="domain\Components\Motor.cs" />
+    <Compile Include="domain\Components\Snappable.cs" />
+    <Compile Include="domain\Database\Table Managers\BatteryTableManager.cs" />
+    <Compile Include="domain\Database\dbExperiment.cs" />
+    <Compile Include="domain\Database\DBManager.cs" />
+    <Compile Include="domain\Database\Table Managers\MotorTableManager.cs" />
+    <Compile Include="domain\Database\Table Managers\PropellerTableManager.cs" />
+    <Compile Include="domain\Database\Table Managers\ReceiverTableManager.cs" />
+    <Compile Include="domain\Database\Table Managers\ServoTableManager.cs" />
+    <Compile Include="domain\Database\Table Managers\SpeedControllerTableManager.cs" />
+    <Compile Include="domain\Database\Table Managers\TableManager.cs" />
+    <Compile Include="domain\File IO\BatteryIO.cs" />
+    <Compile Include="domain\File IO\MotorIO.cs" />
+    <Compile Include="userInterface\Main Window\Aircraft Layout Controls\Aircraft Layouts\Default Layouts\SinglePropellerLayout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Aircraft Layout Controls\Aircraft Layouts\Default Layouts\SinglePropellerLayout.Designer.cs">
+      <DependentUpon>SinglePropellerLayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Aircraft Layout Controls\AircraftLayoutControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Aircraft Layout Controls\AircraftLayoutControl.Designer.cs">
+      <DependentUpon>AircraftLayoutControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\BatteryInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\BatteryInfo.Designer.cs">
+      <DependentUpon>BatteryInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\InfoPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\IPanel.cs" />
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\MotorInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\MotorInfo.Designer.cs">
+      <DependentUpon>MotorInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\PropellerInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\PropellerInfo.Designer.cs">
+      <DependentUpon>PropellerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Main Window\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Main Window\MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="userInterface\Main Window\Aircraft Layout Controls\Sockets\Socket.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Aircraft Layout Controls\Sockets\ISocket.cs" />
+    <Compile Include="userInterface\Main Window\Aircraft Layout Controls\Sockets\Sockets\BatterySocket.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\New Component Window User Controls\AddPropellerPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\New Component Window User Controls\AddPropellerPanel.Designer.cs">
+      <DependentUpon>AddPropellerPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\NewComponentWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\NewComponentWindow.Designer.cs">
+      <DependentUpon>NewComponentWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Tree Panel\ComponentTreeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Tree Panel\ComponentTreeUserControl.Designer.cs">
+      <DependentUpon>ComponentTreeUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\ComponentInfoUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\Main Window\Main Window User Controls\Info Panel\ComponentInfoUserControl.Designer.cs">
+      <DependentUpon>ComponentInfoUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\New Component Window User Controls\AddMotorPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\New Component Window User Controls\AddMotorPanel.Designer.cs">
+      <DependentUpon>AddMotorPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\New Component Window User Controls\AddBatteryPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userInterface\New Component Window\New Component Window User Controls\AddBatteryPanel.Designer.cs">
+      <DependentUpon>AddBatteryPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="userInterface\Main Window\Aircraft Layout Controls\Aircraft Layouts\Default Layouts\SinglePropellerLayout.resx">
+      <DependentUpon>SinglePropellerLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Aircraft Layout Controls\AircraftLayoutControl.resx">
+      <DependentUpon>AircraftLayoutControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Aircraft Layout Controls\Sockets\Sockets\BatterySocket.resx">
+      <DependentUpon>BatterySocket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Main Window User Controls\Info Panel\BatteryInfo.resx">
+      <DependentUpon>BatteryInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Main Window User Controls\Info Panel\InfoPanel.resx">
+      <DependentUpon>InfoPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Main Window User Controls\Info Panel\MotorInfo.resx">
+      <DependentUpon>MotorInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Main Window User Controls\Info Panel\PropellerInfo.resx">
+      <DependentUpon>PropellerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Main Window User Controls\Main Window\MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="userInterface\Main Window\Aircraft Layout Controls\Sockets\Socket.resx">
+      <DependentUpon>Socket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\New Component Window\New Component Window User Controls\AddPropellerPanel.resx">
+      <DependentUpon>AddPropellerPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\New Component Window\NewComponentWindow.resx">
+      <DependentUpon>NewComponentWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Main Window User Controls\Tree Panel\ComponentTreeUserControl.resx">
+      <DependentUpon>ComponentTreeUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Main Window\Main Window User Controls\Info Panel\ComponentInfoUserControl.resx">
+      <DependentUpon>ComponentInfoUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\New Component Window\New Component Window User Controls\AddMotorPanel.resx">
+      <DependentUpon>AddMotorPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\New Component Window\New Component Window User Controls\AddBatteryPanel.resx">
+      <DependentUpon>AddBatteryPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\System.Data.SQLite.dll" />
+    <Content Include="bin\System.Data.SQLite.xml" />
+    <Content Include="userInterface\Main Window\Aircraft Layout Controls\Sockets\Sockets\socket_circle.jpg" />
+    <Content Include="userInterface\warbird.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="userInterface\Main Window\Aircraft Layout Controls\Aircraft Layouts\Saved Layouts\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
